@@ -1,0 +1,6 @@
+on: push
+name: New workflow 1
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps: []
